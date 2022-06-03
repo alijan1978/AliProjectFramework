@@ -1,17 +1,18 @@
 package steps;
 
-import org.junit.After;
-import org.junit.Before;
+
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
 import utils.CommonMethods;
 
 public class Hooks extends CommonMethods {
 
-    @Before
+   @Before
 
     public void start(){
         openBrowserAndLaunchApplication();
     }
 
-   // @After
+  // @After
 
 }

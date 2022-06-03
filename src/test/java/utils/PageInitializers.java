@@ -13,5 +13,4 @@ public class PageInitializers {
         loginPage = new LoginPage();
 
     }
-
 }
