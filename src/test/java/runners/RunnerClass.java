@@ -14,11 +14,11 @@ import utils.CommonMethods;
 
         glue = "steps",
 
-        dryRun = true,
+        dryRun = false,
 
         monochrome = true,
 
-        tags = "@ali"
+        tags = "@dashboard"
 )
 public class RunnerClass {
 
