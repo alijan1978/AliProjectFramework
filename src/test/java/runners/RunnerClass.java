@@ -15,10 +15,11 @@ import utils.CommonMethods;
         glue = "steps",
 
         dryRun = false,
+        // to set it False, it will run.... if set to True, it shows undefined steps
 
         monochrome = true,
 
-        tags = "@dashboard"
+        tags = "@addEmployee"
 )
 public class RunnerClass {
 
